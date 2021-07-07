@@ -1,4 +1,5 @@
-  ### <h2> Hola visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! Soy Jonatan, pero puedes llamarme Jona...</h2>
+  ### <h2> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2>
+<img alt="saludanding" src="https://varuu09.github.io/images/profDisp.gif" width='40' align="center"/>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 <!--
