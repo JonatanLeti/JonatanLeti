@@ -1,5 +1,5 @@
-  ### <h2> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2>
-<img alt="saludanding" src="https://varuu09.github.io/images/profDisp.gif" width='40' align="center"/>
+### Hola visitante! Soy Jonatan, pero puedes llamarme Jona...
+<h2> <img alt="saludanding" src="https://varuu09.github.io/images/profDisp.gif" width='100' align="center"/></h2>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 <!--
