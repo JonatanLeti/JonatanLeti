@@ -1,4 +1,4 @@
-<h2><img alt="saludanding" src="https://www.funko.com/pyimg/generated/d3100c7cec07c3a7e29ccea5b2794533.png" width='40' /> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
+<h2><img alt="saludanding" src="./img/profile-summer.png" width='40' /> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
 
 <p align="center"> Analista de sistemas. Desarrollador backend Java. Padre y esposo. Estudiante de teología.</p>
 
