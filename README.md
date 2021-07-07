@@ -1,4 +1,4 @@
-<h2><img alt="saludanding" src="./img/profile-summer.png" /> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
+<h2><img alt="saludanding" src="./img/profile-summer.png" width="25px"/> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
 
 <p align="center"> Analista de sistemas. Desarrollador backend Java. Padre y esposo. Estudiante de teología.</p>
 
