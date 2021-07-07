@@ -1,5 +1,6 @@
 <h2><img alt="saludanding" src="https://varuu09.github.io/images/profDisp.gif" width='40' /> Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
 
+<p align="center"> Analista de sistemas. Desarrollador backend Java. Padre y esposo. Estudiante de teología.</p>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 <!--
