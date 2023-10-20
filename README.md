@@ -1,9 +1,14 @@
 <img alt="banner" src="./img/soy-jona-gitbanner.png" width="1280px"/> 
 <h2>Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
 
-<p align="center"> Analista de sistemas. Desarrollador backend Java. Padre y esposo. Estudiante de teología.</p>
-
 ### 👨🏻‍💻 &nbsp;Acerca de mi
+<p align="left"> Soy técnico en analista de sistemas. Cuento con mas de 10 años de experiencia en desarrollo de software con diversos lenguajes. Especializado en Java/Backend.<br />
+Trabajo con tecnologías y frameworks como Java, Spring Boot, Strunts, Hibernate, Junit, ReactJs, Elasticsearch, Cassandra, Mysql y Oracledb.
+
+Actualmente soy Sr. Software developer en <a href="https://www.linkedin.com/company/technisys">Galileo</a>, para el team de ScotiaBank.
+
+</p>
+
 <!--
 **JonatanLeti/JonatanLeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
