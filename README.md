@@ -2,12 +2,7 @@
 <h2>Hola visitante! Soy Jonatan, pero puedes llamarme Jona...</h2> 
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
-<p align="left"> Soy técnico en analista de sistemas. Cuento con mas de 10 años de experiencia en desarrollo de software con diversos lenguajes. Especializado en Java/Backend.<br />
-Trabajo con tecnologías y frameworks como Java, Spring Boot, Strunts, Hibernate, Junit, ReactJs, Elasticsearch, Cassandra, Mysql y Oracledb.
-
-Actualmente soy Sr. Software developer en <a href="https://www.linkedin.com/company/technisys">Galileo</a>, para el team de ScotiaBank.
-
-</p>
+<p align="left">Desarrollador de Software Sr. con más de 10 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas robustas y escalables. Especializado en el desarrollo backend utilizando Java y frameworks como Struts, Spring Boot y ORMs como Hibernate. Mi perfil full-stack me permite abarcar tanto el desarrollo del servidor como la interfaz de usuario, con experiencia en tecnologías frontend como AngularJS, ReactJS y jQuery. Dominio de bases de datos relacionales y no relacionales, incluyendo MySQL, OracleDB, ElasticSearch y Cassandra. Actualmente me desempeño como Senior Software Developer en <a href="https://www.linkedin.com/company/technisys">Galileo</a>, donde he participado de diversos proyectos y me he adaptado a entornos tecnológicos en constante evolución.</p>
 
 <!--
 **JonatanLeti/JonatanLeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
